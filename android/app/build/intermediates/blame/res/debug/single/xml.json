@@ -2,5 +2,9 @@
     {
         "merged": "/home/eugenia/Документы/albums/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
         "source": "/home/eugenia/Документы/albums/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/home/eugenia/Документы/albums-react-native/android/app/build/intermediates/res/merged/debug/xml/preferences.xml",
+        "source": "/home/eugenia/Документы/albums-react-native/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.53.3/res/xml/preferences.xml"
     }
 ]

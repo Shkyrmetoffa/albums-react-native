@@ -1,5 +1,9 @@
 [
     {
+        "merged": "/home/eugenia/Документы/albums-react-native/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
+        "source": "/home/eugenia/Документы/albums-react-native/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
         "merged": "/home/eugenia/Документы/albums/android/app/build/intermediates/res/merged/debug/mipmap-hdpi/ic_launcher.png",
         "source": "/home/eugenia/Документы/albums/android/app/src/main/res/mipmap-hdpi/ic_launcher.png"
     }
